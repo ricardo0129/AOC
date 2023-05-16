@@ -1,0 +1,15 @@
+{
+    "files.associations": {
+        "iosfwd": "cpp",
+        "fstream": "cpp",
+        "map": "cpp",
+        "string": "cpp",
+        "vector": "cpp",
+        "queue": "cpp",
+        "iostream": "cpp",
+        "ostream": "cpp",
+        "unordered_map": "cpp",
+        "istream": "cpp",
+        "set": "cpp"
+    }
+}
